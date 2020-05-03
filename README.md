@@ -1,2 +1,2 @@
-# SDD_object_detection
-SDD Object detection with PyTorch
+# SSD_object_detection
+SSD Object detection with PyTorch
